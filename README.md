@@ -1,5 +1,4 @@
 
-Here’s a decorated version of the content to add to your GitHub ReadMe.md file:
 
 🎬 Movie Poster Genre Classification 🎬
 Accuracy Achieved:
@@ -22,6 +21,7 @@ Libraries & Tools Used:
 🛠 Ultralytics
 📊 Weights & Biases
 🤖 Roboflow
+
 🚨 Note:
 The code and dataset for this repository are private as they are currently part of ongoing research.
 For further inquiries, feel free to reach out via email:
